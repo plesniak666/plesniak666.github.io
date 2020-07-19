@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Zero-Piachu - rower|przygoda</title>
-    <link>plesniak666.github.io/tags/</link>
+    <link>https://plesniak666.github.io/tags/</link>
     <description>Recent content in Tags on Zero-Piachu - rower|przygoda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     
-	<atom:link href="plesniak666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://plesniak666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
