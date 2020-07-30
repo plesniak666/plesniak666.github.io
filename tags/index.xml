@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Zero-Piachu - rower|przygoda</title>
-    <link>https://plesniak666.github.io/tags/</link>
-    <description>Recent content in Tags on Zero-Piachu - rower|przygoda</description>
+    <title>Tags on zero-piachu</title>
+    <link>http://zeropiachu.pl/tags/</link>
+    <description>Recent content in Tags on zero-piachu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
+    <language>pl</language>
+    <copyright>zero-piachu</copyright>
+    <lastBuildDate>Mon, 15 Jun 2020 11:58:21 +0200</lastBuildDate>
     
-	<atom:link href="https://plesniak666.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zeropiachu.pl/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gravel</title>
+      <link>http://zeropiachu.pl/tags/gravel/</link>
+      <pubDate>Mon, 15 Jun 2020 11:58:21 +0200</pubDate>
+      
+      <guid>http://zeropiachu.pl/tags/gravel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rajd</title>
+      <link>http://zeropiachu.pl/tags/rajd/</link>
+      <pubDate>Mon, 15 Jun 2020 11:58:21 +0200</pubDate>
+      
+      <guid>http://zeropiachu.pl/tags/rajd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ultra</title>
+      <link>http://zeropiachu.pl/tags/ultra/</link>
+      <pubDate>Mon, 15 Jun 2020 11:58:21 +0200</pubDate>
+      
+      <guid>http://zeropiachu.pl/tags/ultra/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

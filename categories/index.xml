@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Zero-Piachu - rower|przygoda</title>
-    <link>https://plesniak666.github.io/categories/</link>
-    <description>Recent content in Categories on Zero-Piachu - rower|przygoda</description>
+    <title>Categories on zero-piachu</title>
+    <link>http://zeropiachu.pl/categories/</link>
+    <description>Recent content in Categories on zero-piachu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
+    <language>pl</language>
+    <copyright>zero-piachu</copyright>
     
-	<atom:link href="https://plesniak666.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zeropiachu.pl/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
