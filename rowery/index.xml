@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rowery on zeropiachu.pl</title>
+    <link>http://zeropiachu.pl/rowery/</link>
+    <description>Recent content in Rowery on zeropiachu.pl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Mon, 26 Oct 2020 11:33:40 +0100</lastBuildDate><atom:link href="http://zeropiachu.pl/rowery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tata</title>
+      <link>http://zeropiachu.pl/rowery/tata/</link>
+      <pubDate>Mon, 26 Oct 2020 11:33:40 +0100</pubDate>
+      
+      <guid>http://zeropiachu.pl/rowery/tata/</guid>
+      <description>Męskie dorosłe rowery ;&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

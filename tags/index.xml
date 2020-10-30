@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on zero-piachu</title>
+    <title>Tags on zeropiachu.pl</title>
     <link>http://zeropiachu.pl/tags/</link>
-    <description>Recent content in Tags on zero-piachu</description>
+    <description>Recent content in Tags on zeropiachu.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <copyright>zero-piachu</copyright>
-    <lastBuildDate>Mon, 15 Jun 2020 11:58:21 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://zeropiachu.pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bez_dzieci</title>
+      <link>http://zeropiachu.pl/tags/bez_dzieci/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeropiachu.pl/tags/bez_dzieci/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="http://zeropiachu.pl/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>mtb</title>
+      <link>http://zeropiachu.pl/tags/mtb/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://zeropiachu.pl/tags/mtb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gravel</title>

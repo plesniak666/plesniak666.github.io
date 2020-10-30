@@ -1,59 +1,137 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://zeropiachu.pl/post/lubawka/</loc>
-    <lastmod>2020-07-30T15:11:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/post/</loc>
-    <lastmod>2020-07-30T15:11:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/</loc>
-    <lastmod>2020-07-30T15:11:41+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/post/wroclaw_dzialoszyn_lipiec2020/</loc>
-    <lastmod>2020-07-04T10:06:18+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/tags/gravel/</loc>
-    <lastmod>2020-06-15T11:58:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/post/pomorska500_2020/</loc>
-    <lastmod>2020-06-15T11:58:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/tags/rajd/</loc>
-    <lastmod>2020-06-15T11:58:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/tags/</loc>
-    <lastmod>2020-06-15T11:58:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/tags/ultra/</loc>
-    <lastmod>2020-06-15T11:58:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/post/wroclaw_wegrzce_2020/</loc>
-    <lastmod>2020-05-20T10:30:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://zeropiachu.pl/categories/</loc>
-  </url>
-  
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/rowery/</loc>
+            <lastmod>2020-10-26T11:33:40+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/rowery/tata/</loc>
+            <lastmod>2020-10-26T11:33:40+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/</loc>
+            <lastmod>2020-10-26T11:33:40+01:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/akcesoria/</loc>
+            <lastmod>2020-10-23T21:28:36+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/bikepacking/</loc>
+            <lastmod>2020-10-23T21:28:36+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/o_nas/</loc>
+            <lastmod>2020-10-23T21:28:36+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/tags/bez_dzieci/</loc>
+            <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/wycieczki/gory_zlote_2020/</loc>
+            <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/tags/mtb/</loc>
+            <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/tags/</loc>
+            <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/wycieczki/</loc>
+            <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/wycieczki/lubawka/</loc>
+            <lastmod>2020-07-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/wycieczki/wroclaw_dzialoszyn_lipiec2020/</loc>
+            <lastmod>2020-07-04T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/tags/gravel/</loc>
+            <lastmod>2020-06-15T11:58:21+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/wycieczki/pomorska500_2020/</loc>
+            <lastmod>2020-06-15T11:58:21+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/tags/rajd/</loc>
+            <lastmod>2020-06-15T11:58:21+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/tags/ultra/</loc>
+            <lastmod>2020-06-15T11:58:21+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/wycieczki/wroclaw_wegrzce_2020/</loc>
+            <lastmod>2020-05-20T10:30:31+02:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://zeropiachu.pl/categories/</loc>
+        </url>
+        
+    
 </urlset>

@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ultra on zero-piachu</title>
+    <title>ultra on zeropiachu.pl</title>
     <link>http://zeropiachu.pl/tags/ultra/</link>
-    <description>Recent content in ultra on zero-piachu</description>
+    <description>Recent content in ultra on zeropiachu.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <copyright>zero-piachu</copyright>
-    <lastBuildDate>Mon, 15 Jun 2020 11:58:21 +0200</lastBuildDate>
-    
-	<atom:link href="http://zeropiachu.pl/tags/ultra/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 15 Jun 2020 11:58:21 +0200</lastBuildDate><atom:link href="http://zeropiachu.pl/tags/ultra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pomorska500 2020</title>
-      <link>http://zeropiachu.pl/post/pomorska500_2020/</link>
+      <link>http://zeropiachu.pl/wycieczki/pomorska500_2020/</link>
       <pubDate>Mon, 15 Jun 2020 11:58:21 +0200</pubDate>
       
-      <guid>http://zeropiachu.pl/post/pomorska500_2020/</guid>
+      <guid>http://zeropiachu.pl/wycieczki/pomorska500_2020/</guid>
       <description>Edycja 2020 (pierwsza)  piach 5% błoto 10% 50% las, pole 35% asalt słabej jakości, kostka, szuter  </description>
     </item>
     
