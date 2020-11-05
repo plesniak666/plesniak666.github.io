@@ -167,6 +167,15 @@ strong {
     height: 168px;   
 }
 
+.imglogopost {
+    margin: 0px;
+    border: 0px;
+    float: right;
+    margin-top: 0px;
+    width: 320px;
+    height: auto;   
+}
+
 .logo {
     font-weight: normal;
 }
