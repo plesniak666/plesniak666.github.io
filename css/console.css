@@ -158,6 +158,15 @@ strong {
     font-weight: bold;
 }
 
+.imglogo {
+    margin: 0px;
+    border: 0px;
+    float: right;
+    margin-top: 0px;
+    width: 489px;
+    height: 168px;   
+}
+
 .logo {
     font-weight: normal;
 }
@@ -259,6 +268,7 @@ figure {
     }
 
     .logo {
+	align: right;
         padding: calc(var(--global-space) * 1) 0 calc(var(--global-space) * 1);
     }
 
