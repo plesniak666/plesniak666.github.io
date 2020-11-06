@@ -176,6 +176,21 @@ strong {
     height: auto;   
 }
 
+.imgright {
+    margin: 0px;
+    border: 0px;
+    float: right;
+    margin-top: 0px;
+    width: 320px;
+    transition: transform .2s ease;
+    vertical-align: middle;
+    overflow: hidden;
+    height: auto;   
+}
+.imgright:hover {
+	  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 .logo {
     font-weight: normal;
 }
