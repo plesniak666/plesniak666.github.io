@@ -248,16 +248,13 @@ figure {
     border-bottom: 0.5px solid #ffc4c4; 
     margin-top: 21px;
 }
-.menulist {
-    position: fixed;
-    display: block;
-    bottom: 0;
-    right: 92%;
-    width: 80px;
-    top: 5%;
-    border-right: 1px solid red;
-    margin-top: 21px;
+.toc {
+    position: relative;
+    padding-left: 700px;
+    top: 0;
+    margin-top=8px;
 }
+
 .tags {
     font-size: 10px;
     display: inline-block;
