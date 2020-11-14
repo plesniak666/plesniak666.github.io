@@ -240,6 +240,25 @@ figure {
     margin-bottom: 10px;
 }
 
+.toc {
+  margin-top: 0px;
+  bottom: 0px;
+  align: left;
+}
+
+#TableOfContents > ul > li > a {
+   align: left;
+   display: flex; 
+   cursor: pointer;
+   padding: 2px 0;
+   text-align: left; 
+   align-items: center;
+   text-decoration: underline;
+   width: 500px;
+   color: black;
+}
+
+
 .posts-list {
     position: relative;
     padding-left: 150px;
@@ -247,12 +266,6 @@ figure {
     border-top: 0.5px solid #ffc4c4;
     border-bottom: 0.5px solid #ffc4c4; 
     margin-top: 21px;
-}
-.toc {
-    position: relative;
-    padding-left: 700px;
-    top: 0;
-    margin-top=8px;
 }
 
 .tags {
