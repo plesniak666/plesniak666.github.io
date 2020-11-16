@@ -110,6 +110,10 @@ h1 {
     margin-bottom: 150px;
 }
 
+h2 {
+  text-decoration: underline;
+  text-size:2px;
+}
 .content-column-content p,
 .content-column-content li {
     color: #666;
