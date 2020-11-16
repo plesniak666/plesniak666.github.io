@@ -258,6 +258,12 @@ figure {
    color: black;
 }
 
+.taglist {
+   display: inline;
+   text-align: right;
+   color: #9062d1;
+   font-size: 10px;
+}
 
 .posts-list {
     position: relative;
