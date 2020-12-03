@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bikepacking on zeropiachu.pl</title>
+    <link>https://zeropiachu.pl/tags/bikepacking/</link>
+    <description>Recent content in bikepacking on zeropiachu.pl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Fri, 23 Oct 2020 21:28:36 +0200</lastBuildDate><atom:link href="https://zeropiachu.pl/tags/bikepacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Torby / Sakwy</title>
+      <link>https://zeropiachu.pl/bikepacking/torby/</link>
+      <pubDate>Fri, 23 Oct 2020 21:28:36 +0200</pubDate>
+      
+      <guid>https://zeropiachu.pl/bikepacking/torby/</guid>
+      <description>&lt;p&gt;Małe torebki, fuel tanki, wielkie sakwy itd&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Niezbędnik</title>
+      <link>https://zeropiachu.pl/bikepacking/niezbednik/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/bikepacking/niezbednik/</guid>
+      <description>Rzeczy, które wozimy zawsze - na jednogodzinną wycieczkę oraz na tygodniowy rajd.
+Szczegóły wkrótce&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

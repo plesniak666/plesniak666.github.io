@@ -6,13 +6,32 @@
     <description>Recent content on zeropiachu.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myjnia</title>
+      <link>https://zeropiachu.pl/warsztat/myjnia/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/warsztat/myjnia/</guid>
+      <description>&lt;p&gt;Środki chemiczne (i nie tylko) niezbędne do pielęgnacji oraz jak dbać o czystość!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smarowanie</title>
+      <link>https://zeropiachu.pl/warsztat/smarowanie/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/warsztat/smarowanie/</guid>
+      <description>&lt;p&gt;Jeśli myślisz ze smaruje się tylko ogniwa łańcucha to się mylisz :&amp;gt;&lt;br&gt;
+Oleje, smary, konserwanty!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Wołów - Lubiąż</title>
-      <link>https://zeropiachu.pl/blog/wolow2020/</link>
+      <link>https://zeropiachu.pl/wypady/wolow2020/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/wolow2020/</guid>
+      <guid>https://zeropiachu.pl/wypady/wolow2020/</guid>
       <description>&lt;p&gt;Jesienna wycieczka w okolicach Wrocławia. Piękne lasy i doskonałe trasy rowerowe!&lt;/p&gt;</description>
     </item>
     
@@ -40,15 +59,6 @@ Octane One Gridd (rama)
     </item>
     
     <item>
-      <title>Bikepacking</title>
-      <link>https://zeropiachu.pl/bikepacking/</link>
-      <pubDate>Fri, 23 Oct 2020 21:28:36 +0200</pubDate>
-      
-      <guid>https://zeropiachu.pl/bikepacking/</guid>
-      <description>&lt;p&gt;Jeździmy maksymalnie na lekko - zabieramy tylko niezbędne rzeczy. Do transportu używamy wszelkiego rodzaju sakw i toreb przeróżnych firm (wliczając chińskie no-name&amp;rsquo;y).&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>O nas</title>
       <link>https://zeropiachu.pl/o_nas/</link>
       <pubDate>Fri, 23 Oct 2020 21:28:36 +0200</pubDate>
@@ -60,57 +70,76 @@ Kim jesteśmy  Jesteśmy z Dolnego Śląska, tutaj też najczęsciej pedałujemy
     </item>
     
     <item>
+      <title>Torby / Sakwy</title>
+      <link>https://zeropiachu.pl/bikepacking/torby/</link>
+      <pubDate>Fri, 23 Oct 2020 21:28:36 +0200</pubDate>
+      
+      <guid>https://zeropiachu.pl/bikepacking/torby/</guid>
+      <description>&lt;p&gt;Małe torebki, fuel tanki, wielkie sakwy itd&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Niezbędnik</title>
+      <link>https://zeropiachu.pl/bikepacking/niezbednik/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/bikepacking/niezbednik/</guid>
+      <description>Rzeczy, które wozimy zawsze - na jednogodzinną wycieczkę oraz na tygodniowy rajd.
+Szczegóły wkrótce&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Góry Złote</title>
-      <link>https://zeropiachu.pl/blog/gory_zlote_2020/</link>
+      <link>https://zeropiachu.pl/wypady/gory_zlote_2020/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/gory_zlote_2020/</guid>
+      <guid>https://zeropiachu.pl/wypady/gory_zlote_2020/</guid>
       <description>&lt;p&gt;Wycieczka wymagająca. Bardzo fajna trasa górami i lasami granicą polsko-czeską - tym razem omijamy szerokim łukiem wszelkie przygotowane singletracki :).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Jura Krakowsko Częstochowska</title>
-      <link>https://zeropiachu.pl/blog/jura_2020/</link>
+      <link>https://zeropiachu.pl/wypady/jura_2020/</link>
       <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/jura_2020/</guid>
+      <guid>https://zeropiachu.pl/wypady/jura_2020/</guid>
       <description>&lt;p&gt;Coroczne sprawdzenie warunków na Jurze - poznajemy nowe odcinki!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lubawka</title>
-      <link>https://zeropiachu.pl/blog/lubawka/</link>
+      <link>https://zeropiachu.pl/wypady/lubawka/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/lubawka/</guid>
+      <guid>https://zeropiachu.pl/wypady/lubawka/</guid>
       <description>&lt;p&gt;Dwudniowy gravelowy wypad na południe - pierwszy prawdziwy górski wyjazd pierworodnego.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Wroclaw -&gt; Działoszyn</title>
-      <link>https://zeropiachu.pl/blog/wroclaw_dzialoszyn_lipiec2020/</link>
+      <link>https://zeropiachu.pl/wypady/wroclaw_dzialoszyn_lipiec2020/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/wroclaw_dzialoszyn_lipiec2020/</guid>
+      <guid>https://zeropiachu.pl/wypady/wroclaw_dzialoszyn_lipiec2020/</guid>
       <description>&lt;p&gt;Tym razem nie samochodem a rowerami jedziemy z Kubą do babci. Prawie 200km dzielimy na dwa dni z noclegiem na opolszczyźnie!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pomorska 500 - 2020</title>
-      <link>https://zeropiachu.pl/blog/pomorska500_2020/</link>
+      <link>https://zeropiachu.pl/wypady/pomorska500_2020/</link>
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/pomorska500_2020/</guid>
+      <guid>https://zeropiachu.pl/wypady/pomorska500_2020/</guid>
       <description>&lt;p&gt;Piękny czerwiec i przede mną &lt;strong&gt;520 km&lt;/strong&gt; w limicie &lt;strong&gt;80h&lt;/strong&gt;
 To nie relacja dzień po dniu - raczej moje podsumowanie imprezy :&amp;gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Wroclaw -&gt; Węgrzce Wielkie</title>
-      <link>https://zeropiachu.pl/blog/wroclaw_wegrzce_2020/</link>
+      <link>https://zeropiachu.pl/wypady/wroclaw_wegrzce_2020/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/wroclaw_wegrzce_2020/</guid>
+      <guid>https://zeropiachu.pl/wypady/wroclaw_wegrzce_2020/</guid>
       <description>&lt;p&gt;Rozrzucona na dwa dni fajna wycieczka południem Polski - sporo górek, widoki na Bekskid,  Wiślana Trasa Rowerowa.&lt;/p&gt;</description>
     </item>
     

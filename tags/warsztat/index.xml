@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>warsztat on zeropiachu.pl</title>
+    <link>https://zeropiachu.pl/tags/warsztat/</link>
+    <description>Recent content in warsztat on zeropiachu.pl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/tags/warsztat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myjnia</title>
+      <link>https://zeropiachu.pl/warsztat/myjnia/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/warsztat/myjnia/</guid>
+      <description>&lt;p&gt;Środki chemiczne (i nie tylko) niezbędne do pielęgnacji oraz jak dbać o czystość!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smarowanie</title>
+      <link>https://zeropiachu.pl/warsztat/smarowanie/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/warsztat/smarowanie/</guid>
+      <description>&lt;p&gt;Jeśli myślisz ze smaruje się tylko ogniwa łańcucha to się mylisz :&amp;gt;&lt;br&gt;
+Oleje, smary, konserwanty!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
