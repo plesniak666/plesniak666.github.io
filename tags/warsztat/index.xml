@@ -6,7 +6,17 @@
     <description>Recent content in warsztat on zeropiachu.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/tags/warsztat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/tags/warsztat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smarowanie</title>
+      <link>https://zeropiachu.pl/blog/smarowanie/</link>
+      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/blog/smarowanie/</guid>
+      <description>&lt;p&gt;Jeśli myślisz ze smaruje się tylko ogniwa łańcucha to się mylisz :&amp;gt;&lt;br&gt;
+Oleje, smary, konserwanty!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Narzędzia i części zapasowe</title>
       <link>https://zeropiachu.pl/blog/narzedzia/</link>
@@ -24,16 +34,6 @@
       <guid>https://zeropiachu.pl/blog/myjnia/</guid>
       <description>&lt;p&gt;Jak myć rower ?
 Jakie środki ?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Smarowanie</title>
-      <link>https://zeropiachu.pl/blog/smarowanie/</link>
-      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://zeropiachu.pl/blog/smarowanie/</guid>
-      <description>&lt;p&gt;Jeśli myślisz ze smaruje się tylko ogniwa łańcucha to się mylisz :&amp;gt;&lt;br&gt;
-Oleje, smary, konserwanty!&lt;/p&gt;</description>
     </item>
     
   </channel>
