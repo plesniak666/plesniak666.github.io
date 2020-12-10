@@ -4,7 +4,7 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/garderoba/</loc>
+            <loc>https://zeropiachu.pl/blog/</loc>
             <lastmod>2020-12-04T00:00:00+00:00</lastmod>
             <priority>0</priority>
         </url>
@@ -12,21 +12,21 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/garderoba/bielizna/</loc>
+            <loc>https://zeropiachu.pl/blog/bielizna/</loc>
             <lastmod>2020-12-04T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://zeropiachu.pl/garderoba/bluzyikurtki/</loc>
+            <loc>https://zeropiachu.pl/blog/bluzyikurtki/</loc>
             <lastmod>2020-12-04T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://zeropiachu.pl/garderoba/buty/</loc>
+            <loc>https://zeropiachu.pl/blog/buty/</loc>
             <lastmod>2020-12-04T00:00:00+00:00</lastmod>
         </url>
         
@@ -40,7 +40,7 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/garderoba/kask/</loc>
+            <loc>https://zeropiachu.pl/blog/kask/</loc>
             <lastmod>2020-12-04T00:00:00+00:00</lastmod>
         </url>
         
@@ -61,22 +61,6 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/bikepacking/</loc>
-            <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-            <priority>0</priority>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://zeropiachu.pl/warsztat/</loc>
-            <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-            <priority>0</priority>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://zeropiachu.pl/tags/bikepacking/</loc>
             <lastmod>2020-12-03T00:00:00+00:00</lastmod>
         </url>
@@ -84,14 +68,14 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/warsztat/narzedzia/</loc>
+            <loc>https://zeropiachu.pl/blog/narzedzia/</loc>
             <lastmod>2020-12-03T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://zeropiachu.pl/bikepacking/biwak/</loc>
+            <loc>https://zeropiachu.pl/blog/biwak/</loc>
             <lastmod>2020-12-03T00:00:00+00:00</lastmod>
         </url>
         
@@ -105,14 +89,14 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/warsztat/myjnia/</loc>
+            <loc>https://zeropiachu.pl/blog/myjnia/</loc>
             <lastmod>2020-11-30T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://zeropiachu.pl/warsztat/smarowanie/</loc>
+            <loc>https://zeropiachu.pl/blog/smarowanie/</loc>
             <lastmod>2020-11-30T00:00:00+00:00</lastmod>
         </url>
         
@@ -161,14 +145,14 @@
     
         
         <url>
-            <loc>https://zeropiachu.pl/bikepacking/torby/</loc>
+            <loc>https://zeropiachu.pl/blog/torby/</loc>
             <lastmod>2020-10-23T21:28:36+02:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://zeropiachu.pl/bikepacking/niezbednik/</loc>
+            <loc>https://zeropiachu.pl/blog/niezbednik/</loc>
             <lastmod>2020-10-23T00:00:00+00:00</lastmod>
         </url>
         

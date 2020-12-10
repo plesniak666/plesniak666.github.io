@@ -1,74 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on zeropiachu.pl</title>
+    <title>zeropiachu.pl</title>
     <link>https://zeropiachu.pl/blog/</link>
-    <description>Recent content in Blog on zeropiachu.pl</description>
+    <description>Recent content on zeropiachu.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 08 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://zeropiachu.pl/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wołów - Lubiąż</title>
-      <link>https://zeropiachu.pl/blog/wolow2020/</link>
-      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <title>Bielizna</title>
+      <link>https://zeropiachu.pl/blog/bielizna/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/wolow2020/</guid>
-      <description>&lt;p&gt;Jesienna wycieczka w okolicach Wrocławia. Piękne lasy i doskonałe trasy rowerowe!&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/bielizna/</guid>
+      <description>&lt;p&gt;Pierwsza wartswa - to tutaj wszystko sie zaczyna.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Góry Złote</title>
-      <link>https://zeropiachu.pl/blog/gory_zlote_2020/</link>
-      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Bluzy i kurtki</title>
+      <link>https://zeropiachu.pl/blog/bluzyikurtki/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/gory_zlote_2020/</guid>
-      <description>&lt;p&gt;Wycieczka wymagająca. Bardzo fajna trasa górami i lasami granicą polsko-czeską - tym razem omijamy szerokim łukiem wszelkie przygotowane singletracki :).&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/bluzyikurtki/</guid>
+      <description>&lt;p&gt;Na rowerze zazwyczaj jest ciepło - kiedy się jedzie!
+Bluzy zakładamy praktycznie zawsze gdy temperatura nie przekracza 12-15 stopni.
+Kurtki są na szczególne okazje - ulewne deszcze czy jazdę w ekstremalnych warunkach.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Jura Krakowsko Częstochowska</title>
-      <link>https://zeropiachu.pl/blog/jura_2020/</link>
-      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Buty</title>
+      <link>https://zeropiachu.pl/blog/buty/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/jura_2020/</guid>
-      <description>&lt;p&gt;Coroczne sprawdzenie warunków na Jurze - poznajemy nowe odcinki!&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/buty/</guid>
+      <description>&lt;p&gt;SPD czy tradycyjne platformy? But ma być wytrzymały i super wygodny.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Lubawka</title>
-      <link>https://zeropiachu.pl/blog/lubawka/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Kask</title>
+      <link>https://zeropiachu.pl/blog/kask/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/lubawka/</guid>
-      <description>&lt;p&gt;Dwudniowy gravelowy wypad na południe - pierwszy prawdziwy górski wyjazd pierworodnego.&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/kask/</guid>
+      <description>&lt;p&gt;Ochrona głowy - sceptycy uważają, że kask nie pomaga&amp;hellip; Uwierzcie - kask ratuje życie i nie raz sie o tym przekonaliśmy!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Wroclaw -&gt; Działoszyn</title>
-      <link>https://zeropiachu.pl/blog/wroclaw_dzialoszyn_lipiec2020/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Narzędzia i części zapasowe</title>
+      <link>https://zeropiachu.pl/blog/narzedzia/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/wroclaw_dzialoszyn_lipiec2020/</guid>
-      <description>&lt;p&gt;Tym razem nie samochodem a rowerami jedziemy z Kubą do babci. Prawie 200km dzielimy na dwa dni z noclegiem na opolszczyźnie!&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/narzedzia/</guid>
+      <description>&lt;p&gt;Jaki sprzęt warto posiadać do podstawowego serwisu.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Pomorska 500 - 2020</title>
-      <link>https://zeropiachu.pl/blog/pomorska500_2020/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Sprzęt biwakowy</title>
+      <link>https://zeropiachu.pl/blog/biwak/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/pomorska500_2020/</guid>
-      <description>&lt;p&gt;Piękny czerwiec i przede mną &lt;strong&gt;520 km&lt;/strong&gt; w limicie &lt;strong&gt;80h&lt;/strong&gt;
-To nie relacja dzień po dniu - raczej moje podsumowanie imprezy :&amp;gt;&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/biwak/</guid>
+      <description>&lt;p&gt;Kawka w terenie?
+Śpiwór, mata, namiot czy tarp?&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Wroclaw -&gt; Węgrzce Wielkie</title>
-      <link>https://zeropiachu.pl/blog/wroclaw_wegrzce_2020/</link>
-      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <title>Myjnia</title>
+      <link>https://zeropiachu.pl/blog/myjnia/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zeropiachu.pl/blog/wroclaw_wegrzce_2020/</guid>
-      <description>&lt;p&gt;Rozrzucona na dwa dni fajna wycieczka południem Polski - sporo górek, widoki na Bekskid,  Wiślana Trasa Rowerowa.&lt;/p&gt;</description>
+      <guid>https://zeropiachu.pl/blog/myjnia/</guid>
+      <description>&lt;p&gt;Jak myć rower ?
+Jakie środki ?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smarowanie</title>
+      <link>https://zeropiachu.pl/blog/smarowanie/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/blog/smarowanie/</guid>
+      <description>&lt;p&gt;Jeśli myślisz ze smaruje się tylko ogniwa łańcucha to się mylisz :&amp;gt;&lt;br&gt;
+Oleje, smary, konserwanty!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Torby / Sakwy</title>
+      <link>https://zeropiachu.pl/blog/torby/</link>
+      <pubDate>Fri, 23 Oct 2020 21:28:36 +0200</pubDate>
+      
+      <guid>https://zeropiachu.pl/blog/torby/</guid>
+      <description>&lt;p&gt;Małe torebki, fuel tanki, wielkie sakwy itd&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Niezbędnik</title>
+      <link>https://zeropiachu.pl/blog/niezbednik/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeropiachu.pl/blog/niezbednik/</guid>
+      <description>Rzeczy, które wozimy zawsze - na jednogodzinną wycieczkę oraz na tygodniowy rajd.
+Szczegóły wkrótce&amp;hellip;</description>
     </item>
     
   </channel>
